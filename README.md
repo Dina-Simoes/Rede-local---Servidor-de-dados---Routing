@@ -1,4 +1,4 @@
-# Rede-local---Servidor-de-dados---Routing
+# Rede-local-Servidor-de-dados-Routing
 Rede Local - Servidor de dados - NTP e Routing config
 
 CET Cibersegurança - IEFP, Centro de Formação de Tomar
